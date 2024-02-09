@@ -1,3 +1,1 @@
-Initials: (TP) | 
-Course code: 5146(02) |
-Term: Winter- 2024
+This is the testing branch
